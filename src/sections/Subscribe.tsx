@@ -1,5 +1,3 @@
-import React from 'react'
-
 const Subscribe = () => {
   return (
     <div className='w-screen h-72'>
