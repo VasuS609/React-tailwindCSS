@@ -16,7 +16,7 @@ function App() {
     AOS.init({
       offset:100,
       duration:800,
-      easing:"ease-in-sine",
+      easing: "ease-in-sine",
       delay:100
     })
     AOS.refresh();
@@ -25,7 +25,7 @@ function App() {
 
   return (
     <div className='w-screen h-screen container'>
-     
+      
         <NavBar/>
         <Hero/> 
         <Products/>
