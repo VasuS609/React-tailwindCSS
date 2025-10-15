@@ -33,7 +33,7 @@ const Products = () => {
           <div>        
           <div
           data-aos="fade-up"
-          data-aos-delay={data.aosDelay}
+          data-aos-delay={data}
            key={data.id} className='flex justify-center items-center'>
             <img
               src={data.img}
