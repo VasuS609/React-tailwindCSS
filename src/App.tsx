@@ -9,7 +9,7 @@ import TopProduct from './sections/TopProduct';
 import Banner from './sections/Banner';
 import Subscribe from './sections/Subscribe';
 import Testimonial from './sections/Testimonial';
-import Footer from './sections/footer';
+import Footer from './sections/Footer';
 
 function App() {
   React.useEffect(()=>{
